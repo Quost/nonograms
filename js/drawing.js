@@ -15,7 +15,7 @@ var scrollLeft = 0;
 var solution = null;
 var informations = null;
 
-var maxErrors = 500;
+var maxErrors = 5;
 var countErrors = 0;
 
 var lines = 0;
