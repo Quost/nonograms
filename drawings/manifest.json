@@ -1,0 +1,14 @@
+{
+    "url_repository": "",
+    "level": {
+        "easy": [
+			"5x5x1"
+		],
+        "intermediate": [
+			"10x10x1"
+		],
+        "hard": [
+			"45x42x1"
+		]
+    }
+}
